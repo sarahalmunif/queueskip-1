@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">QueueSkip</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="sign_up_name_hint">Name</string>
+    <string name="login_email_hint">Email address</string>
+    <string name="login_pass_hint">Password</string>
+    <string name="sign_up_confirm_pass">Confirm Password</string>
+    <string name="register_btn">Register</string>
+
+
+</resources>
